@@ -1,0 +1,33 @@
+body {
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+main {
+    display: flex;
+    gap: 10px;
+}
+
+.link {
+    text-decoration: none;
+    color: yellowgreen;
+}
+
+
+article {
+    background-color: blue;
+}
+
+.right {
+    background-color: antiquewhite;
+    padding: 35px;
+}
+
+.left {
+    background-color: blanchedalmond;
+    padding: 35px;
+}
+
+footer {
+    background-color: beige;
+}
